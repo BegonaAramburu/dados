@@ -1,3 +1,5 @@
 # dados
 
-CopyRight Begoña Aramburu
+## Proyecto de dados tirados al azar
+
+CopyRight & copy Begona Aramburu
